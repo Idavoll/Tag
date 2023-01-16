@@ -15,13 +15,13 @@
     }
   ],
   "require": {
-    "php": "^7.1.3",
+    "php": "^8.0",
     "composer/installers": "~1.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "~7.0",
-    "orchestra/testbench": "3.8.*",
-    "idavoll/page-module": "4.0.x-dev"
+    "phpunit/phpunit": "~9.5",
+    "orchestra/testbench": "~7.16",
+    "idavoll/page-module": "~3.0"
   },
   "autoload": {
     "psr-4": {
